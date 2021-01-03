@@ -17,9 +17,9 @@ int main()
 
 		for (int j = 0; j < n; j++)
 		{
-			cin >> arr[i];
+			cin >> arr[j];
 
-			sum[j % 3] += arr[i];
+			sum[j % 3] += arr[j];
 		}
 
 		for (int j = 0; j < 3; j++)
