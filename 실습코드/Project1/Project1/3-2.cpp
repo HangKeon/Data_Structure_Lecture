@@ -24,7 +24,7 @@ public:
 
 	CLinkedList()				//생성자
 	{
-		cursor = NULL;
+		head = tail = cursor = NULL
 	}
 
 	void addBack(int x)			//뒤에서부터 x값을 추가
