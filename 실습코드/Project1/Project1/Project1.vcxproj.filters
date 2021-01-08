@@ -69,5 +69,17 @@
     <ClCompile Include="7-2_hard_version.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="9-1_easy_version.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="9-1_hard_version.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="9-2_easy_version.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="9-2_hard_version.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
