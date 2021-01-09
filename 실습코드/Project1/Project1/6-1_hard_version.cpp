@@ -24,7 +24,7 @@ void enqueue(int x)					//정수 X를 큐의 뒤에 삽입. 큐가 가득차서 넣을 수 없는 경
 
 bool empty()						//큐가 비어 있으면 1, 비어 있지 않으면 0을 출력
 {
-	return queue[f] == 0;
+	return r==-1;
 }
 
 void dequeue()	// 큐에서 가장 앞에 있는 정수를 삭제하고, 그 수를 출력. 만약 큐가 비어 있는 경우, 'Empty'를 출력.
