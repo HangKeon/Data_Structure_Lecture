@@ -30,7 +30,7 @@ int size()
 
 bool empty()
 {
-	return (r <= f);
+	return (r == -1);
 }
 
 int main()
