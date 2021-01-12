@@ -24,27 +24,6 @@
     <ClCompile Include="4-1_hard_version.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\..\..\2\Project1\Project1\2-2_hard_version.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="..\..\..\..\2\Project1\Project1\2-1_easy_version.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="..\..\..\..\2\Project1\Project1\2-1_hard_version.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="..\..\..\..\2\Project1\Project1\2-2_easy_version.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="..\..\..\..\3\Project1\Project1\3-2.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="..\..\..\..\3\Project1\Project1\3-1_easy_version.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="..\..\..\..\3\Project1\Project1\3-1_hard_version.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
     <ClCompile Include="6-1_easy_version.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
@@ -79,6 +58,33 @@
       <Filter>소스 파일</Filter>
     </ClCompile>
     <ClCompile Include="9-2_hard_version.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="11-1_easy_version.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="11-1_hard_version.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="11-2.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="3-1_hard_version.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="2-1_easy_version.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="2-1_hard_version.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="2-2_easy_version.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="2-2_hard_version.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="3-1_easy_version.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
