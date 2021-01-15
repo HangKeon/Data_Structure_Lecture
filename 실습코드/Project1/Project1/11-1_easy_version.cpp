@@ -11,7 +11,7 @@ public:
 
 	Node()							//»ý¼ºÀÚ
 	{
-		data = 0;
+		data = 0;	
 		parent = NULL;
 		left = NULL;
 		right = NULL;
