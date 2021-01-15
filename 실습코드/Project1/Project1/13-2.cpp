@@ -2,6 +2,8 @@
 #include <string>
 using namespace std;
 
+//이 코드는 미완성 코드입니다. 방법이 더이상 떠오르지 않아 우선은 여기서 멈춰둔 코드입니다.
+
 #define MappingSize 501
 
 class vertex
